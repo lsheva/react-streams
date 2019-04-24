@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "super stream",
+      "description": "test description",
+      "id": 1
+    },
+    {
+      "title": "othder duper stream ",
+      "description": "test description 2",
+      "id": 2
+    },
+    {
+      "title": "dscsdc",
+      "description": "ascasca ваміавма",
+      "id": 6
+    },
+    {
+      "title": "dsfdsf",
+      "description": "sdfsdfs",
+      "userId": "115759542350950206001",
+      "id": 7
+    }
+  ]
+}
